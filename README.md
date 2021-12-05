@@ -7,7 +7,7 @@
 
 ## :pushpin: 연락처
 - 이메일 : qmaecx@naver.com
-- 깃헙 : [Soujiro-a](bit.ly/3plJo7t)
+- 깃헙 : [Soujiro-a](https://bit.ly/3plJo7t)
 
 ## :pushpin: 프로젝트
 
@@ -18,7 +18,7 @@
 >기술 스택 <br>
 >Node.js / Express.js / Mongoose / React / Redux <br>
 >
-> [프로젝트 상세 설명](bit.ly/3Ezpcpn) 참고
+> [프로젝트 상세 설명](https://bit.ly/3Ezpcpn) 참고
 
 ### 2. Blind-Clone
 >직장인 커뮤니티 Blind()의 Clone 프로젝트 <br>
@@ -27,4 +27,4 @@
 >기술 스택 <br>
 > Node.js / Express.js / Mongoose / Next.js / Redux <br>
 >
-> [프로젝트 상세 설명](bit.ly/3306Jo1) 참고
+> [프로젝트 상세 설명](https://bit.ly/3306Jo1) 참고
