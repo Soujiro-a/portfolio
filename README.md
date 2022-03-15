@@ -28,3 +28,12 @@
 > Node.js / Express.js / Mongoose / Next.js / Redux <br>
 >
 > [프로젝트 상세 설명](https://bit.ly/3306Jo1) 참고
+
+### 3. Nuber-eats-backend
+>[노마드코더](https://nomadcoders.co/)의 [우버 이츠 클론코딩](https://nomadcoders.co/nuber-eats) 강의 백엔드 파트 결과물 <br>
+>개발 기간 : 2022.01 ~ 2021.03 <br>
+>
+>기술 스택 <br>
+> Node.js / Nest.js / GraphQL / TypeORM / PostgreSQL / Jest <br>
+>
+> [프로젝트 상세 설명](https://bit.ly/3tWsOxx) 참고
