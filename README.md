@@ -15,7 +15,7 @@
 >음식 레시피/식단을 작성하고 공유할 수 있는 사이트 <br>
 >개발 기간 : 2021.09 ~ 2021.10 <br>
 >
->기술 스택 <br>
+>**기술 스택** <br>
 >Node.js / Express.js / Mongoose / React / Redux <br>
 >
 > [프로젝트 상세 설명](https://bit.ly/3Ezpcpn) 참고
@@ -24,16 +24,18 @@
 >직장인 커뮤니티 Blind()의 Clone 프로젝트 <br>
 >개발 기간 : 2021.11 ~ 2021.12 <br>
 >
->기술 스택 <br>
+>**기술 스택** <br>
 > Node.js / Express.js / Mongoose / Next.js / Redux <br>
 >
 > [프로젝트 상세 설명](https://bit.ly/3306Jo1) 참고
 
 ### 3. Nuber-eats-backend
->[노마드코더](https://nomadcoders.co/)의 [우버 이츠 클론코딩](https://nomadcoders.co/nuber-eats) 강의 백엔드 파트 결과물 <br>
->개발 기간 : 2022.01 ~ 2021.03 <br>
+>[노마드코더](https://nomadcoders.co/)의 [우버 이츠 클론코딩](https://nomadcoders.co/nuber-eats) 강의 결과물 <br>
+>개발 기간 : 2022.01 ~ 현재 개발중 <br>
 >
->기술 스택 <br>
-> Node.js / Nest.js / GraphQL / TypeORM / PostgreSQL / Jest <br>
+>**기술 스택** <br>
+>백엔드 : Node.js / Nest.js / GraphQL / TypeORM / PostgreSQL / Jest <br>
+>[프로젝트 상세 설명](https://bit.ly/3tWsOxx) 참고
 >
-> [프로젝트 상세 설명](https://bit.ly/3tWsOxx) 참고
+>프론트엔드 : React / TailwindCSS / Apollo Client / Jest / Cypress <br>
+>[프로젝트 상세 설명](bit.ly/3KNTxDt) 참고
