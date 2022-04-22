@@ -38,4 +38,4 @@
 >[프로젝트 상세 설명](https://bit.ly/3tWsOxx) 참고
 >
 >프론트엔드 : React / TailwindCSS / Apollo Client / Jest / Cypress <br>
->[프로젝트 상세 설명](bit.ly/3KNTxDt) 참고
+>[프로젝트 상세 설명](http://bit.ly/3KNTxDt) 참고
